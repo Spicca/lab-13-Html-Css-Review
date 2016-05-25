@@ -11,3 +11,15 @@ h2 {
     margin: 20px;
     padding: 40px;
 }
+a:active{
+	outline-style: dashed;
+}
+a.ex2:hover, a.ex2:active {
+    font-size: 150%;
+}
+a:visited {
+    color: green;
+}
+a:active {
+    color: yellow;
+}
